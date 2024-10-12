@@ -1,0 +1,53 @@
+@font-face {
+    font-family: Vazirmatn;
+    src: url(/assets/fonts/vazir/Vazirmatn-Black.woff2);
+}
+
+@font-face {
+    font-family: Vazirmatn;
+    font-style: normal;
+    font-weight: bold;
+    src: url(/assets/fonts/vazir/Vazirmatn-Bold.woff2);
+}
+
+@font-face {
+    font-family: Vazirmatn;
+    font-style: normal;
+    font-weight: bolder;
+    src: url(/assets/fonts/vazir/Vazirmatn-ExtraBold.woff2);
+}
+
+@font-face {
+    font-family: Vazirmatn;
+    font-style: normal;
+    font-weight: 300;
+    src: url(/assets/fonts/vazir/Vazirmatn-Light.woff2);
+}
+
+@font-face {
+    font-family:Vazirmatn ;
+    font-style: normal;
+    font-weight:500;
+    src: url(/assets/fonts/vazir/Vazirmatn-Medium.woff2);
+}
+
+@font-face {
+    font-family: Vazirmatn;
+    font-style: normal;
+    font-weight: normal;
+    src: url(/assets/fonts/vazir/Vazirmatn-Regular.woff2);
+}
+
+@font-face {
+    font-family: Vazirmatn;
+    font-style: normal;
+    font-weight: 700;
+    src: url(/assets/fonts/vazir/Vazirmatn-SemiBold.woff2);
+}
+
+@font-face {
+    font-family: Vazirmatn;
+    font-style: normal;
+    font-weight: 100;
+    src: url(/assets/fonts/vazir/Vazirmatn-Thin.woff2);
+}
